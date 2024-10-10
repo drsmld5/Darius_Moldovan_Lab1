@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Darius_Moldovan_Lab1/1.0.0": {
+        "runtime": {
+          "Darius_Moldovan_Lab1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Darius_Moldovan_Lab1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
