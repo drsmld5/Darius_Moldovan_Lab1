@@ -28,3 +28,4 @@
 /Users/darius/Desktop/Things on desktop/Facultate/IE 3 Sem 1/medii_programare/Labs/Darius_Moldovan_Lab1/obj/Debug/net8.0/Darius_Moldovan_Lab1.pdb
 /Users/darius/Desktop/Things on desktop/Facultate/IE 3 Sem 1/medii_programare/Labs/Darius_Moldovan_Lab1/obj/Debug/net8.0/Darius_Moldovan_Lab1.genruntimeconfig.cache
 /Users/darius/Desktop/Things on desktop/Facultate/IE 3 Sem 1/medii_programare/Labs/Darius_Moldovan_Lab1/obj/Debug/net8.0/ref/Darius_Moldovan_Lab1.dll
+/Users/darius/Desktop/Things on desktop/Facultate/IE 3 Sem 1/medii_programare/Labs/Darius_Moldovan_Lab1/obj/Debug/net8.0/Darius_Moldovan_Lab1.sourcelink.json
